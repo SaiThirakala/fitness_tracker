@@ -1,0 +1,29 @@
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.*        
+
+# Python (if backend uses venv)
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
